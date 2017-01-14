@@ -1,0 +1,2 @@
+GET http://www.google.co.in HTTP/1.0
+GET http://www.google.co.in HTTP/1.0

@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: application/javascript; charset=UTF-8
+X-Frame-Options: SAMEORIGIN
+p3p: CP="DSP IDC CUR ADM DELi STP NAV COM UNI INT PHY DEM"
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Cache-Control: public, max-age=600
+Content-Length: 423
+Date: Fri, 28 Oct 2016 15:43:05 GMT
+Age: 725
+Vary: Accept-Encoding
+X-Cache: MISS from proxy
+X-Cache-Lookup: MISS from proxy:8080
+Connection: close
+
+var DISQUSWIDGETS;
+
+if (typeof DISQUSWIDGETS != 'undefined') {
+    DISQUSWIDGETS.displayCount({"text":{"and":"and","comments":{"zero":"0 Comments","multiple":"{num} Comments","one":"1 Comment"}},"counts":[{"id":"139577 http:\/\/www.geeksforgeeks.org\/?p=139577","comments":0},{"id":"139573 http:\/\/www.geeksforgeeks.org\/?p=139573","comments":0},{"id":"139575 http:\/\/www.geeksforgeeks.org\/?p=139575","comments":0}]});
+}

@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Fri, 28 Oct 2016 15:43:05 GMT
+Server: Apache/2.2.31 (Amazon)
+Cache-Control: no-store, no-cache, must-revalidate
+Access-Control-Allow-Methods: POST, GET, OPTIONS, DELETE, PUT
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+X-Powered-By: PHP/5.3.29
+Access-Control-Allow-Credentials: true
+Cache-Control: max-age=2592000
+Expires: Sun, 27 Nov 2016 15:43:05 GMT
+Content-Length: 121
+Content-Type: text/html; charset=UTF-8
+X-Cache: MISS from proxy
+X-Cache-Lookup: MISS from proxy:8080
+Connection: close
+
+{"data":"<center><a href=\"http:\/\/auth.geeksforgeeks.org\/\" style=\"font-size:20px;\">Login\/Register<\/a><\/center>"}
